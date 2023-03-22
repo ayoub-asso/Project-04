@@ -1154,44 +1154,6 @@ html {
   background-color: green;
   border: 1px solid red;
 }
-/* .backup .type {
-  display: flex;
-  flex-wrap: wrap;
-}
-.backup .type .date {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 20px 10px;
-  padding: 20px 105px;
-}
-.backup .type .date label {
-  position: relative;
-}
-.backup .type .date label::before {
-  content: "";
-  position: absolute;
-  left: 50%;
-  top: -63px;
-  transform: translateX(-50%);
-  margin: 20px 10px;
-  width: 240px;
-  height: 38px;
-  border: 1px solid var(--grey-color);
-  padding: 20px 0;
-}
-.backup .type .date label:checked::before {
-  content: "";
-  position: absolute;
-  left: 50%;
-  top: -63px;
-  transform: translateX(-50%);
-  margin: 20px 10px;
-  width: 240px;
-  height: 38px;
-  border: 1px solid red;
-  padding: 20px 0;
-} */
 .backup .servers input[type="radio"] {
   -webkit-appearance: none;
   appearance: none;
@@ -1862,7 +1824,7 @@ html {
   text-align: center;
 }
 .plans .join a  {
-  padding: 10px 30px; 
+  padding: 10px 50px; 
   border-radius: 5px;
   color: white;
 }
